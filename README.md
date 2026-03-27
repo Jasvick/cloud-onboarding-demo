@@ -9,3 +9,8 @@ This project simulates onboarding users in a cloud environment using IAM groups 
 - Finance team: read-only access to billing/database
 - Support team: troubleshooting permissions
 - DevOps team: full admin access
+- ## Diagram of Users → Groups → Roles
+
+![Cloud Onboarding Diagram](images/cloud-onboarding-diagram.png)
+
+*The diagram illustrates how users are organized into groups and assigned roles for secure and efficient access management.*
